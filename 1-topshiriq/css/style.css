@@ -1,0 +1,11 @@
+ol {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 50px;
+}
+
+ol > li {
+    color: black;
+    font-size: 20px;
+}
